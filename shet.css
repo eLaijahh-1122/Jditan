@@ -1,0 +1,30 @@
+
+body{
+    margin: 0;
+}
+
+menu{
+    height: 10vh;
+    background-color: #bdb76b;
+    text-align: center;
+}
+
+header{
+    height: 20vh;
+    background-color: #00ffff;
+    text-align: center;
+}
+
+content{
+    height: 60vh;
+    width: 70%;
+    background-color: #8a2be2;
+    text-align: center;
+    
+}
+
+footer{
+    height: 10vh;
+    background-color: #ffd700;
+    text-align: center;
+}
